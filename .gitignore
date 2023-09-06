@@ -132,4 +132,5 @@ dmypy.json
 pyvenv.cfg
 bin/
 
-version.txt
+# Removing to test that pip install works
+#version.txt
